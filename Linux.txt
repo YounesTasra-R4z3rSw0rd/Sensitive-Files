@@ -45,6 +45,7 @@
 /etc/pureftpd.pdb
 /etc/httpd/php.ini
 /etc/ssh/sshd_config
+/etc/amportal.conf
 /var/log/auth.log
 /var/log/dpkg.log
 /etc/termcap
