@@ -1,4 +1,6 @@
 /proc/self/net/arp
+/proc/self/status
+/etc/passwd
 /etc/logrotate.d/ftp
 /etc/chttp.conf
 /etc/fail2ban/fail2ban.conf
@@ -236,7 +238,6 @@
 /var/log/apache2/access.log
 /etc/vhcs2/proftpd/proftpd.conf
 /var/log/mysqlderror.log
-/etc/passwd
 /etc/php.ini
 /var/lib/mysql/mysql/user.MYD
 /var/log/mysql/mysql-slow.log
