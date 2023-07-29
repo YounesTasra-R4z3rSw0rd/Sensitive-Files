@@ -3,6 +3,7 @@
 /etc/chttp.conf
 /etc/fail2ban/fail2ban.conf
 /etc/fail2ban/jail.conf
+/var/log/fail2ban.log
 /etc/cron.deny
 /etc/vsftpd/vsftpd.conf
 /var/apache/logs/error_log
