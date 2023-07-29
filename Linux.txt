@@ -1,6 +1,8 @@
 /proc/self/net/arp
 /etc/logrotate.d/ftp
 /etc/chttp.conf
+/etc/fail2ban/fail2ban.conf
+/etc/fail2ban/jail.conf
 /etc/cron.deny
 /etc/vsftpd/vsftpd.conf
 /var/apache/logs/error_log
@@ -12,6 +14,8 @@
 /etc/lsb-release
 ~/.mysql_history
 /etc/bashrc
+/etc/pam.d/passwords-auth
+/etc/pam.d/system-auth
 ~/.nano_history
 /usr/local/etc/pureftpd.pdb
 /var/log/secure
